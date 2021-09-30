@@ -54,3 +54,6 @@ The dice rolling will be a simple random number generator; which generate number
 
 ## Board Layout
 The game layout or map is read from the file map.txt where every cell is represented with its number and an 'S' or 'L' indicates a snake or ladder at that position.
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
